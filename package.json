@@ -38,7 +38,7 @@
     "glob": "^7.1.2",
     "pg": "^7.4.1",
     "reflect-metadata": "^0.1.12",
-    "ts-framework-common": "nxtep-io/ts-framework-common#2.0.1",
+    "ts-framework-common": "estudarcomvoce/ts-framework-common#v2",
     "typeorm": "^0.2.4"
   },
   "devDependencies": {
